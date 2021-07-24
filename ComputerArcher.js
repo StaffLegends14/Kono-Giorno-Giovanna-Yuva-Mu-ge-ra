@@ -8,7 +8,7 @@ class ComputerArcher {
       this.width = width;
       this.height = height;
       //this.collapse = false;
-      this.image = loadImage("./assets/computerArcher.png");
+      this.image = loadImage("computerArcher.png");
   
       World.add(world, this.body);
   
